@@ -1,0 +1,10 @@
+   0 vi /tmp/file.txt
+   1 df -h |head -3 >> /tmp/file.txt
+   2 chmod g+w readme.txt
+   3 chmod u-r readme.txt
+   4 cgmod o+x readme.txt
+   5 chmod o+x readme.txt
+   6 history > history_20.txt
+   7 export_file history 20.txt
+   8 export_file 20.txt
+   9 history > 20_02.txt
